@@ -1,4 +1,4 @@
-Anna:
+
 import pygame
 import math
 from pygame import mixer
